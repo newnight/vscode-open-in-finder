@@ -56,7 +56,7 @@
     ]
   },
   "scripts": {
-    "package": "vsce package --yarn --no-dependencies",
+    "package": "vsce package --yarn --dependencies",
     "publish": "yarn run package && vsce publish",
     "vscode:prepublish": "yarn run compile",
     "compile": "tsc -p ./",
