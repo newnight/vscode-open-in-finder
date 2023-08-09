@@ -1,12 +1,12 @@
 {
   "name": "open-in-finder",
-  "displayName": "open-in-finder,support Qspace",
-  "description": "open-in-finder,support Qspace ",
-  "version": "1.0.0",
+  "displayName": "open in finde or Qspace",
+  "description": "open-in-finder or Qspace ",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "repository": "https://github.com/newnight/vscode-compare-with-same-structure",
+  "repository": "https://github.com/newnight/vscode-open-in-finder",
   "categories": [
     "Other"
   ],
@@ -15,6 +15,7 @@
   "keywords": [
     "finder",
     "open",
+    "qspace",
     "newnight"
   ],
   "publisher": "newnight",
