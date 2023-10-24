@@ -1,8 +1,8 @@
 {
   "name": "open-in-finder",
-  "displayName": "open in finde or Qspace",
+  "displayName": "open in finder or Qspace",
   "description": "open-in-finder or Qspace ",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
